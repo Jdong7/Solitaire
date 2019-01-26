@@ -1,0 +1,56 @@
+	Tableau Cell Tests
+
+1. public void tableauStart()
+	Tests if each tableau pile in Ace's Up game initially holds 1 card. This is done by initializing the Ace's Up game and checking the size of each tableau pile.
+
+2. public void tableauAddLegal()
+	Tests if the tableau piles correctly determine if adding a card is legal or illegal. If the card being added comes from the stock pile, it will always be legal.
+	If the card being added comes from another tableau pile, it will be legal if the tableau pile it is being moved to is empty. Otherwise, it is illegal. This can be 
+	done by using canRemove().
+	
+3. public void tableauRemoveLegal()
+	Tests if the tableau piles correctly determine if removing a card is legal or illegal. If the card being removed is going to the home pile, it is only legal if at
+	least one top card from the other three tableau piles are of the same suit and of a higher rank. If the card being removed is moving to another tableau pile, it is
+	only legal at least one of the other three tableau piles are empty. This can be done by using canRemove().
+	
+4. public void tableauAddNew()
+	Tests if adding a new card to a tableau pile will result in that card being the new top card of that pile and the size of that tableau pile increasing by 1. This can
+	be done by using getLastCard() and size().
+	
+5. public void tableauRemoveNew()
+	Tests if removing a card from a tableau pile will result in the previous card of the pile being the new top card of that pile and the size of that tableau pile
+	decreasing by 1. This can be done by using getLastCard() and size().
+	
+	
+
+	Home Cell Tests
+	
+6. public void homeStart()
+	Tests if the home cell in Ace's Up game initially holds 0 cards. This is done by initializing the Ace's Up game and checking the size of the home cell.
+
+7. public void homeAddLegal()
+	Tests if the home pile correctly determines if adding a card is legal or illegal. This will always be legal. This can be done by using canRemove().
+
+8. public void homeRemoveLegal()
+	Tests if the home pile correctly determines if removing a card is legal or illegal. This will always be illegal. This can be done by using canRemove().
+
+9. public void homeAddNew()
+	Tests if adding a new card to the home pile will result in that card being the new top card of that pile and the size of the home pile increasing by 1. This can
+	be done by using getLastCard() and size().
+	
+	
+
+	Stockpile Tests
+	
+10. public void stockStart()
+	Tests if the stockpile in Ace's Up game initially holds 48 cards. This is done by initializing the Ace's Up game and checking the size of the stockpile.
+
+11. public void stockAddLegal()
+	Tests if the stockpile correctly determines if adding a card is legal or illegal.  This is always illegal. Stockpile is intangible, so it can only be clicked to deal
+	cards, but no cards can be added to it.
+
+12. public void stockRemoveLegal()
+	Tests if the stockpile correctly determines if removing a card is legal or illegal. This is legal if the stockpile is not empty.
+
+13. public void stockDeal()
+	Tests if dealing cards from the stockpile removes the top 4 cards, adds the removed cards to the tableau piles, and results in the 5th card being the new top card.
