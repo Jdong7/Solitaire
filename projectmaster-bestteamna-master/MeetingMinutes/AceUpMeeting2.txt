@@ -1,0 +1,33 @@
+Meeting Minutes for 11/28 120 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu(M)
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *Planned project
+  *
+
+Tasks started, but not completed, since last meeting:
+  *Redone GUI gameType and reset
+  *Fixed FreeCell
+  *Fixed Baker's Dozen
+
+
+
+Tasks completed in meeting:
+  *Fixed FreeCell
+  *Fixed Baker's Dozen
+
+
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Make AceUp Game
+
+Schedule for the next week's set of pair programming meetings:
+11/29

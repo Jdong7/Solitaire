@@ -1,0 +1,25 @@
+Meeting Minutes for 9/19 10 minutes:
+
+Meeting Attendance:
+  *Stephanie Yu
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *Discussed layout of project
+  *
+
+Tasks started, but not completed, since last meeting:
+  *
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Deck Class(Jonathan)
+  *Card Class(Jonathan)
+  *Overall Project Discussion
+  *Deck and Card Class discussion
+
+Schedule for the next week's set of pair programming meetings:
+  *9/26 next meeting

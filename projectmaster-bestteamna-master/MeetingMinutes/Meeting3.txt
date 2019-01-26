@@ -1,0 +1,36 @@
+Meeting Minutes for 9/27 240 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *Deck Class
+  *Card Class
+
+Tasks started, but not completed, since last meeting:
+  *Cardpile Class
+  *Cell super class
+  *HomeCell
+  *FreeCell
+  *TableauCell
+
+Tasks completed in meeting:
+  *Further lay out what Cell Class needs
+  *Layed out HomeCell
+  *Layed out FreeCell
+  *Layed out TableauCell
+  *Further discussion on what goes in main and FreeCell and Baker's Dozen game class.
+  *Cardpile Class
+
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Baker's Dozen and FreeCell Class
+
+Schedule for the next week's set of pair programming meetings:
+  *9/28 next meeting.

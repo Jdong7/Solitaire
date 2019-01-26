@@ -1,0 +1,29 @@
+Meeting Minutes for 11/27 120 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu(M)
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *
+  *
+
+Tasks started, but not completed, since last meeting:
+  *Planned project
+  *Planned Junit
+
+
+
+Tasks completed in meeting:
+  *Planned project
+
+Tasks to be worked on (and by which team members) for the next meeting:
+
+
+Schedule for the next week's set of pair programming meetings:
+11/28

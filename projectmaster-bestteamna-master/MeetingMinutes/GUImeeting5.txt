@@ -1,0 +1,33 @@
+Meeting Minutes for 10/28 300 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu(M)
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *GUI Frame
+  *GUI Menu
+  *Menu quit action listener
+  *Changed file names of all cards
+  *Stacking Cards 
+  *Baker's Dozen game layout
+  *FreeCell game layout
+
+Tasks started, but not completed, since last meeting:
+  *
+
+
+Tasks completed in meeting:
+  *Move method implemented in GUI
+  *Selecting and Deselecting card
+
+Tasks to be worked on (and by which team members) for the next meeting:
+
+
+Schedule for the next week's set of pair programming meetings:
+10/29

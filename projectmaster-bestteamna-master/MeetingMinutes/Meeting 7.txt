@@ -1,0 +1,28 @@
+Meeting Minutes for 10/2 80 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu(M)
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *Deck Class
+  *Card Class
+  *CardPile Class
+  *Cell Class
+  *Tableau Class
+  *Freecell class
+  *Homecell Class
+  *Junit Test
+Tasks started, but not completed, since last meeting:
+
+Tasks completed in meeting:
+
+
+Tasks to be worked on (and by which team members) for the next meeting:
+
+Schedule for the next week's set of pair programming meetings:

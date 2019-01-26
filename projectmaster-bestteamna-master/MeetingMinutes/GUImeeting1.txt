@@ -1,0 +1,28 @@
+Meeting Minutes for 10/12 120 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu(M)
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *
+Tasks started, but not completed, since last meeting:
+  *Baker's Dozen game layout
+  *FreeCell game layout
+
+Tasks completed in meeting:
+  *GUI Frame
+  *GUI Menu
+  *Menu quit action Listener
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Baker's Dozen game layout
+  *FreeCell game layout
+
+Schedule for the next week's set of pair programming meetings:
+10/16

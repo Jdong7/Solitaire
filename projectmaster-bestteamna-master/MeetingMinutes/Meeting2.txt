@@ -1,0 +1,36 @@
+Meeting Minutes for 9/26 240 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *Deck Class 
+  *Card Class
+
+Tasks started, but not completed, since last meeting:
+  *Cardpile Class
+  *Cell super class
+  *HomeCell
+  *FreeCell
+  *TableauCell
+ 
+Tasks completed in meeting:
+  *Discussed and layed out overall project 
+  *Deck Class adjusted
+  *Layed out what Cell Class needs
+  *Layed out what CardPile needs
+
+
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Cardpile class(Michael)
+  *Cell Class(Matt, Jun Jie, Stephanie, Jonathan)
+
+Schedule for the next week's set of pair programming meetings:
+  *9/27 next meeting.

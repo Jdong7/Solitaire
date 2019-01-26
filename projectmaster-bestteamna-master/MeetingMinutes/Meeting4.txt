@@ -1,0 +1,39 @@
+Meeting Minutes for 9/29 300 minutes:
+
+*All met together and accomplished tasks during meeting.
+
+Meeting Attendance:
+  *Stephanie Yu(M)
+  *Jonathan Dong
+  *King Cheng
+  *Michael Deng
+  *Jun Jie Zheng
+
+Tasks completed since last meeting:
+  *Deck Class
+  *Card Class
+  *CardPile Class
+  *Cell Class
+
+
+
+Tasks started, but not completed, since last meeting:
+  *Move method for each game class
+  *
+  *
+  *
+  *
+  *
+
+Tasks completed in meeting:
+  *Tableau Class
+  *FreeCell Class
+  *HomeCell Class
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Move method
+  *Junit Test
+
+Schedule for the next week's set of pair programming meetings:
+  *9/30 next meeting.

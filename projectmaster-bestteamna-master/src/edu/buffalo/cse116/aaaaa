@@ -1,0 +1,47 @@
+package edu.buffalo.cse116;
+
+import java.util.ArrayList;
+
+public class test {
+
+	public static void main(String[] args) {
+		AceUp ace = new AceUp();
+	
+		ArrayList<Card> a = new ArrayList<Card>();
+		Card c1 = new Card(1, 4);
+		a.add(c1);
+		CardPile pile = new CardPile(a);
+		Cell ce = new TableauCell(pile);
+
+		ArrayList<Card> b = new ArrayList<Card>();
+		Card c2 = new Card(1, 5);
+		b.add(c2);
+		CardPile pile2 = new CardPile(b);
+		Cell ce2 = new TableauCell(pile2);
+
+		ArrayList<Card> c = new ArrayList<Card>();
+		Card c3 = new Card(2, 7);
+		c.add(c3);
+		CardPile pile3 = new CardPile(c);
+		Cell ce3 = new TableauCell(pile3);
+
+		ArrayList<Card> d = new ArrayList<Card>();
+		Card c4 = new Card(3, 8);
+		a.add(c4);
+		CardPile pile4 = new CardPile(d);
+		Cell ce4 = new TableauCell(pile4);
+
+		ArrayList<Cell> cell = new ArrayList<Cell>();
+		cell.add(ce);
+		cell.add(ce2);
+		cell.add(ce3);
+		cell.add(ce4);
+
+		ace.setTC(cell);
+
+		ace.move(c1);
+
+		System.out.println(ace.getTC(0).getCardPile().toArray().toString());
+
+	}
+}
