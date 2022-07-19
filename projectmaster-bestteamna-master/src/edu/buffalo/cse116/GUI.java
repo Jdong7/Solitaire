@@ -277,7 +277,7 @@ public class GUI {
 			y = 150;
 			for (int i = 0; i < game.getHC().size(); i++) {
 				if (game.getHC(i).isEmpty()) {
-					ImageIcon cells = new ImageIcon("src/Cards/gold.gif");
+					ImageIcon cells = new ImageIcon("edu/buffalo/cse116/Cards/gold.gif");
 					JLabel Cards = new JLabel(cells);
 					Cards.setBounds(x, y, w, h);
 					int hello = i;
@@ -447,7 +447,7 @@ public class GUI {
 
 			for (int i = 0; i < game.getHC().size(); i++) {
 				if (game.getHC(i).isEmpty()) {
-					ImageIcon cells = new ImageIcon("src/Cards/gold.gif");
+					ImageIcon cells = new ImageIcon("edu/buffalo/cse116/Cards/gold.gif");
 					JLabel Card = new JLabel(cells);
 					Card.setBounds(x, y, w, h);
 					int hello = i;
@@ -597,7 +597,7 @@ public class GUI {
 			}
 			for (int i = 0; i < game.getFC().size(); i++) {
 				if (game.getFC(i).isEmpty()) {
-					ImageIcon cell = new ImageIcon("src/Cards/green.gif");
+					ImageIcon cell = new ImageIcon("edu/buffalo/cse116/Cards/green.gif");
 					JLabel Cards = new JLabel(cell);
 					Cards.setBounds(x, y, w, h);
 					int hello = i;
@@ -749,7 +749,7 @@ public class GUI {
 			x+=(w*2);
 			if(game.getHC(0).isEmpty())
 			{
-				ImageIcon cell = new ImageIcon("src/Cards/gold.gif");
+				ImageIcon cell = new ImageIcon("edu/buffalo/cse116/Cards/gold.gif");
 				JLabel Cards = new JLabel(cell);
 				Cards.setBounds(x, y, w, h);
 				lpane.add(Cards, _size, 0);
@@ -769,7 +769,7 @@ public class GUI {
 			//stockpile
 			if(!game.getDeck().isEmpty())
 			{
-				ImageIcon cell = new ImageIcon("src/Cards/CardBack.gif");//its green now, but need to change it to backcard
+				ImageIcon cell = new ImageIcon("edu/buffalo/cse116/Cards/CardBack.gif");//its green now, but need to change it to backcard
 				JLabel Cards = new JLabel(cell);
 				Cards.setBounds(x, y, w, h);//actionlistener, carddraw if its click and we have to reset(false);
 				Cards.addMouseListener(new MouseAdapter() {
@@ -783,7 +783,7 @@ public class GUI {
 			}
 			else//when empty, no action listener
 			{
-				ImageIcon cell = new ImageIcon("src/Cards/hertzEgg.jpg");//easteregg (12)
+				ImageIcon cell = new ImageIcon("edu/buffalo/cse116/Cards/hertzEgg.jpg");//easteregg (12)
 				JLabel Cards = new JLabel(cell);
 				Cards.setBounds(x, y, w, h);
 				lpane.add(Cards, _size, 0);
@@ -934,7 +934,7 @@ public class GUI {
 	 */
 	public void nopeError(boolean b) {
 		if (b) {
-			ImageIcon nope = new ImageIcon("src/Cards/nope.gif");
+			ImageIcon nope = new ImageIcon("edu/buffalo/cse116/Cards/nope.gif");
 			JFrame frame = new JFrame();
 			frame.setSize(500, 300);
 			JLabel label = new JLabel(nope);

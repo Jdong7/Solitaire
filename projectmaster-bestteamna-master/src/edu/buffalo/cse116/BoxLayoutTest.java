@@ -1,3 +1,5 @@
+package edu.buffalo.cse116;
+
 import javax.swing.BoxLayout;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -12,7 +14,7 @@ public class BoxLayoutTest {
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     BoxLayout boxLayout = new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS); // top to bottom
     frame.setLayout(boxLayout);
-    ImageIcon icon1 = new ImageIcon("src/Cards/10c.gif");
+    ImageIcon icon1 = new ImageIcon("edu/buffalo/cse116/Cards/10c.gif");
     JLabel label = new JLabel(icon1);
     JLabel label2 = new JLabel(icon1);
     JLabel label3 = new JLabel(icon1);

@@ -202,7 +202,7 @@ public class Card {
 	 */
 	public String URL()
 	{
-		return "src/Cards/"+this.suit+""+this.ranking+".gif";
+		return "edu/buffalo/cse116/Cards/"+this.suit+""+this.ranking+".gif";
 	}
 	
 
